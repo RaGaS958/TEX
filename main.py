@@ -2,7 +2,7 @@ import google.generativeai as genai
 import time
 import pyautogui
 import pyperclip
-api="AIzaSyBQ3unu_yeZpfEYj5hi-QQZTmBWnmUJmVU"
+api=""
 genai.configure(api_key=api)
 model = genai.GenerativeModel('gemini-1.5-flash')
 def main():
