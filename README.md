@@ -1,4 +1,4 @@
-![TEX LOGO](TEX_LOGO.png)
+![TEX LOGO](TEX.png)
 # 💬 Tex – WhatsApp Auto Reply Automation
 
 **Tex** is a **Python-based automation tool** that reads your WhatsApp messages and generates smart, context-aware auto-replies using **Google Gemini AI**.  
